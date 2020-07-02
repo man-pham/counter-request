@@ -1,0 +1,36 @@
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn-snc {
+  width: 23%;
+  height: 30px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: 1px solid rgb(12, 99, 150);
+  background-color: rgb(12, 99, 150);
+  color: #fff;
+}
+input {
+  text-align: center;
+} */
+.btn-snc {
+  width: 25%;
+}
+.avatar {
+  margin-right: 30px;
+}
+.avatar > img {
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+input {
+  text-align: center;
+}
+.status-req {
+  position: fixed;
+  bottom: 5px;
+  right: 15px;
+}
